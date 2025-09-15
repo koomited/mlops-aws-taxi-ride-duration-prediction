@@ -1,0 +1,7 @@
+ecr_repo_name = "stg-stream-model-duration"
+source_stream_name = "stg-ride-events"
+output_stream_name = "stg-ride-predictions"
+model_bucket = "koomi-stg-mlflow-models"
+lambda_function_local_path = "../lambda_function.py"
+docker_image_local_path = "../Dockerfile"
+lambda_function_name = "stg-prediction-lambda"
