@@ -1,21 +1,19 @@
----
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
+[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7?logo=visual-studio-code&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white)](#)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](#)
-[![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)](#)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](#)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](#)
-[![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)](#)
-[![DagsHub](https://img.shields.io/badge/DagsHub-FF6A00?logo=dagsHub&logoColor=white)](#)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)](#)
-![Awesome](https://img.shields.io/badge/Awesome-ffd700?logo=awesome&logoColor=black)
+[![LocalStack](https://img.shields.io/badge/LocalStack-FF9900?logo=amazonaws&logoColor=white)](#)
+[![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)](#)
+![MLOps](https://img.shields.io/badge/MLOps-Awesome-ffd700?logo=github-sponsors&logoColor=black)
+
+
+
 ---
-
-
-
 <p align="center">
   <img src="images/ci_cd_zoomcamp.png">
 </p>
