@@ -79,7 +79,7 @@ make publish
 
 ```
 
-**Lovely crafted by Koomi 💛**
+**Lovely crafted by Koomi Toussaint AMOUSSOUVI: AI/ML Engineer 💛**
 
 
 
