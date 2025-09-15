@@ -1,3 +1,26 @@
+---
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)](#)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](#)
+[![LocalStack](https://img.shields.io/badge/LocalStack-FF9900?logo=amazonaws&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)](#)
+[![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)](#)
+![Awesome](https://img.shields.io/badge/MLOps-Awesome-ffd700?logo=github-sponsors&logoColor=black)
+
+---
+
+
+
+<p align="center">
+  <img src="images/ci_cd_zoomcamp.png">
+</p>
+
+
 ```bash
     docker build -t stream-model-duration:v2 .
 ```
