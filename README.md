@@ -1,3 +1,5 @@
+# 🚖 MLOps on AWS: Taxi Ride Duration Prediction
+
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7?logo=visual-studio-code&logoColor=white)](#)
@@ -14,10 +16,73 @@
 
 
 ---
+
+# Overview
+
+This project demonstrates a full **MLOps pipeline** for predicting taxi ride durations using **AWS cloud services**.  
+It covers data ingestion, model deployment, infrastructure automation, testing, and CI/CD — all following modern MLOps best practices.
+
+---
+
 <p align="center">
   <img src="images/ci_cd_zoomcamp.png">
 </p>
 
+
+# Key features
+
+- Python + ML model + Tests
+- LocalStack + Makefile + CI/CD: Development & testing productivity
+- AWS + Terraform + Docker: Deployment 
+
+
+# Prerequisites
+
+- [Python 3.10+](https://www.python.org/downloads/)  
+- [Docker](https://www.docker.com/get-started)  
+- [Docker Compose](https://docs.docker.com/compose/)  
+- [Git](https://git-scm.com/) 
+- [Make](https://www.gnu.org/software/make/)
+
+# Run project
+## Clone the repository
+```bash
+git clone https://github.com/koomited/mlops-aws-taxi-ride-duration-prediction.git
+cd mlops-aws-taxi-ride-duration-prediction
+```
+
+## Setup
+```bash
+make setup
+
+```
+## Code quality check
+```bash
+make quality_check
+
+```
+
+## Unit testing
+```bash
+make test
+
+```
+## Integration test
+```bash
+make integration-test
+
+```
+
+## Deployment to AWS ECR
+```bash
+make publish
+
+```
+
+
+
+
+<!-- 
 
 ```bash
     docker build -t stream-model-duration:v2 .
@@ -188,4 +253,4 @@ aws kinesis put-record \
     "SequenceNumber": "49666982207866436594932695987844168214195725486316847122"
 }
 ```
-Tous
+Tous -->

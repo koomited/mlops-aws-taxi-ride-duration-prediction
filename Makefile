@@ -13,7 +13,7 @@ quality_check:
 build: test quality_check
 	docker build -t ${LOCAL_IMAGE_NAME} .
 
-integration_test: build
+integration-test: build
 	LOCAL_IMAGE_NAME=${LOCAL_IMAGE_NAME} bash ./integration-test/run.sh
 
 publish: build integration_test
@@ -21,4 +21,3 @@ publish: build integration_test
 
 setup: 
 	pipenv install --dev 
-	pre-commit install
