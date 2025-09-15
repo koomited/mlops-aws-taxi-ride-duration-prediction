@@ -33,7 +33,7 @@ It covers data ingestion, model deployment, infrastructure automation, testing, 
 
 - Python + ML model + Tests
 - LocalStack + Makefile + CI/CD: Development & testing productivity
-- AWS + Terraform + Docker: Deployment 
+- AWS + Terraform + Docker+ Github Actions: Deployment 
 
 
 # Prerequisites
@@ -79,6 +79,7 @@ make publish
 
 ```
 
+**Lovely crafted by Koomi 💛**
 
 
 
