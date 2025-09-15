@@ -10,7 +10,7 @@
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)](#)
 [![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)](#)
-[![Awesome](https://img.shields.io/badge/MLOps-Awesome-ffd700?logo=github-sponsors&logoColor=black)]
+![Awesome](https://img.shields.io/badge/MLOps-Awesome-ffd700?logo=github-sponsors&logoColor=black)
 
 ---
 
